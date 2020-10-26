@@ -1,4 +1,4 @@
 Editor
 ======
 
-Esu para pruebas
+Uso para pruebas
